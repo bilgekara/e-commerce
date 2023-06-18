@@ -7,7 +7,6 @@ import com.bilgeli.productservice.repository.ProductRepository;
 import com.bilgeli.productservice.service.mapper.ProductMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import lombok.val;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
